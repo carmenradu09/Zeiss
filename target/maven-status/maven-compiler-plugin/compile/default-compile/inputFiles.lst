@@ -1,5 +1,8 @@
-/Users/carmenradu/IdeaProjects/github/Zeiss/src/main/java/com/example/restservice/MainApplication.java
-/Users/carmenradu/IdeaProjects/github/Zeiss/src/main/java/com/example/restservice/MyClientEndpoint.java
-/Users/carmenradu/IdeaProjects/github/Zeiss/src/main/java/com/example/restservice/Greeting.java
-/Users/carmenradu/IdeaProjects/github/Zeiss/src/main/java/com/example/restservice/ScheduledTasks.java
-/Users/carmenradu/IdeaProjects/github/Zeiss/src/main/java/com/example/restservice/GreetingController.java
+/Users/carmenradu/IdeaProjects/gs-accessing-data-mysql/Zeiss/src/main/java/com/example/accessingdatamysql/database/message/DBMessage.java
+/Users/carmenradu/IdeaProjects/gs-accessing-data-mysql/Zeiss/src/main/java/com/example/accessingdatamysql/database/operations/services/DBOperationsService.java
+/Users/carmenradu/IdeaProjects/gs-accessing-data-mysql/Zeiss/src/main/java/com/example/accessingdatamysql/MainApplication.java
+/Users/carmenradu/IdeaProjects/gs-accessing-data-mysql/Zeiss/src/main/java/com/example/accessingdatamysql/database/repository/DBMessageRepository.java
+/Users/carmenradu/IdeaProjects/gs-accessing-data-mysql/Zeiss/src/main/java/com/example/accessingdatamysql/websocket/database/mapper/WSJsonToDBMessageMapper.java
+/Users/carmenradu/IdeaProjects/gs-accessing-data-mysql/Zeiss/src/main/java/com/example/accessingdatamysql/websocket/WSClientEndpoint.java
+/Users/carmenradu/IdeaProjects/gs-accessing-data-mysql/Zeiss/src/main/java/com/example/accessingdatamysql/websocket/connect/ScheduledTasks.java
+/Users/carmenradu/IdeaProjects/gs-accessing-data-mysql/Zeiss/src/main/java/com/example/accessingdatamysql/websocket/database/mapper/Payload.java

@@ -1,6 +1,10 @@
-com/example/restservice/Greeting$GreetingBuilder.class
-com/example/restservice/Greeting.class
-com/example/restservice/ScheduledTasks.class
-com/example/restservice/MainApplication.class
-com/example/restservice/MyClientEndpoint.class
-com/example/restservice/GreetingController.class
+com/example/accessingdatamysql/websocket/database/mapper/Payload.class
+com/example/accessingdatamysql/websocket/WSClientEndpoint.class
+com/example/accessingdatamysql/database/message/DBMessage.class
+com/example/accessingdatamysql/database/operations/services/DBOperationsService.class
+com/example/accessingdatamysql/database/message/DBMessage$DBMessageBuilder.class
+com/example/accessingdatamysql/MainApplication.class
+com/example/accessingdatamysql/database/operations/services/DBOperationsService$DBOperationsServiceBuilder.class
+com/example/accessingdatamysql/websocket/database/mapper/WSJsonToDBMessageMapper.class
+com/example/accessingdatamysql/websocket/connect/ScheduledTasks.class
+com/example/accessingdatamysql/database/repository/DBMessageRepository.class
