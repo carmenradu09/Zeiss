@@ -1,0 +1,6 @@
+com/example/restservice/Greeting$GreetingBuilder.class
+com/example/restservice/Greeting.class
+com/example/restservice/ScheduledTasks.class
+com/example/restservice/MainApplication.class
+com/example/restservice/MyClientEndpoint.class
+com/example/restservice/GreetingController.class

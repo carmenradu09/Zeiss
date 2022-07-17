@@ -1,0 +1,3 @@
+{"topic":"events","ref":null,"payload":{"timestamp":"2022-07-17T12:19:57Z","status":"finished","machine_id":"cf0959dd-39ba-4c56-90a4-582c2d7a9482","id":"0c762b59-3331-4b17-ab45-1fc78fc6ee8b"},"join_ref":null,"event":"new"}
+{"topic":"events","ref":null,"payload":{"timestamp":"2022-07-17T12:20:02Z","status":"finished","machine_id":"d29675bc-f3a4-424f-a9a1-68eb257bf30f","id":"8ce40b0c-7013-48f2-a918-f834a8d4c7cb"},"join_ref":null,"event":"new"}
+{"topic":"events","ref":null,"payload":{"timestamp":"2022-07-17T12:20:02Z","status":"finished","machine_id":"5b3ec85c-d2ff-404f-aa6b-0a5e82537caa","id":"289b0a2e-1ae5-4e39-8a27-a21a804eea7e"},"join_ref":null,"event":"new"}
