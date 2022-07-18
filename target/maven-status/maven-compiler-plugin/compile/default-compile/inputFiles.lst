@@ -1,5 +1,5 @@
-/Users/carmenradu/IdeaProjects/github/Zeiss/src/main/java/com/example/restservice/MainApplication.java
-/Users/carmenradu/IdeaProjects/github/Zeiss/src/main/java/com/example/restservice/MyClientEndpoint.java
-/Users/carmenradu/IdeaProjects/github/Zeiss/src/main/java/com/example/restservice/Greeting.java
-/Users/carmenradu/IdeaProjects/github/Zeiss/src/main/java/com/example/restservice/ScheduledTasks.java
-/Users/carmenradu/IdeaProjects/github/Zeiss/src/main/java/com/example/restservice/GreetingController.java
+/Users/carmenradu/IdeaProjects/github/Zeiss/src/main/java/com/example/websocket/message/WSMessage.java
+/Users/carmenradu/IdeaProjects/github/Zeiss/src/main/java/com/example/websocket/controller/GreetingController.java
+/Users/carmenradu/IdeaProjects/github/Zeiss/src/main/java/com/example/websocket/client/endpoint/component/ScheduledTasks.java
+/Users/carmenradu/IdeaProjects/github/Zeiss/src/main/java/com/example/websocket/MainApplication.java
+/Users/carmenradu/IdeaProjects/github/Zeiss/src/main/java/com/example/websocket/client/endpoint/client/MyClientEndpoint.java

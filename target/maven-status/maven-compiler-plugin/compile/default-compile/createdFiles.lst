@@ -1,6 +1,6 @@
-com/example/restservice/Greeting$GreetingBuilder.class
-com/example/restservice/Greeting.class
-com/example/restservice/ScheduledTasks.class
-com/example/restservice/MainApplication.class
-com/example/restservice/MyClientEndpoint.class
-com/example/restservice/GreetingController.class
+com/example/websocket/message/WSMessage.class
+com/example/websocket/client/endpoint/component/ScheduledTasks.class
+com/example/websocket/MainApplication.class
+com/example/websocket/client/endpoint/client/MyClientEndpoint.class
+com/example/websocket/message/WSMessage$WSMessageBuilder.class
+com/example/websocket/controller/GreetingController.class
