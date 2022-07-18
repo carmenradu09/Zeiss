@@ -1,6 +1,6 @@
 package com.example.websocket.client.endpoint.component;
 
-import com.example.websocket.client.endpoint.client.MyClientEndpoint;
+import com.example.websocket.client.endpoint.client.WSClient;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.scheduling.annotation.Scheduled;
@@ -32,7 +32,7 @@ public class ScheduledTasks {
 
             log.info("===============> Connecting to web socket: {}", uri);
 
-            container.connectToServer(MyClientEndpoint.class, URI.create(uri));
+            container.connectToServer(WSClient.class, URI.create(uri));
 
             log.info("==================> Connected to web socket: {}", uri);
 

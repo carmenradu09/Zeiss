@@ -15,8 +15,8 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 @ClientEndpoint
-public class MyClientEndpoint {
-    private static final Logger log = LoggerFactory.getLogger(MyClientEndpoint.class);
+public class WSClient {
+    private static final Logger log = LoggerFactory.getLogger(WSClient.class);
 
     @OnOpen
     public void onOpen(Session session) {

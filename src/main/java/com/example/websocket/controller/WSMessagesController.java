@@ -15,7 +15,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @RestController
-public class GreetingController {
+public class WSMessagesController {
     private static final Logger log = LoggerFactory.getLogger(ScheduledTasks.class);
 
     @GetMapping("/messages")
