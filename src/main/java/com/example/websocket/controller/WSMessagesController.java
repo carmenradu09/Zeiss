@@ -19,7 +19,7 @@ public class WSMessagesController {
     private static final Logger log = LoggerFactory.getLogger(ScheduledTasks.class);
 
     @GetMapping("/messages")
-    public List<WSMessage> greeting() throws IOException {
+    public List<WSMessage> getWebSocketMessages() throws IOException {
         List<WSMessage> messages = new ArrayList<>();
 
         File fileToRead = new File(
